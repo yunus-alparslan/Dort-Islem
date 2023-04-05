@@ -1,0 +1,9 @@
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\2-Dört İşlem\Dörtİşlem\Dörtİşlem\bin\Debug\Dörtİşlem.exe.config
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\2-Dört İşlem\Dörtİşlem\Dörtİşlem\bin\Debug\Dörtİşlem.exe
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\2-Dört İşlem\Dörtİşlem\Dörtİşlem\bin\Debug\Dörtİşlem.pdb
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\2-Dört İşlem\Dörtİşlem\Dörtİşlem\obj\Debug\Dörtİşlem.csprojResolveAssemblyReference.cache
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\2-Dört İşlem\Dörtİşlem\Dörtİşlem\obj\Debug\Dörtİşlem.Properties.Resources.resources
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\2-Dört İşlem\Dörtİşlem\Dörtİşlem\obj\Debug\Dörtİşlem.csproj.GenerateResource.Cache
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\2-Dört İşlem\Dörtİşlem\Dörtİşlem\obj\Debug\Dörtİşlem.exe
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\2-Dört İşlem\Dörtİşlem\Dörtİşlem\obj\Debug\Dörtİşlem.pdb
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\2-Dört İşlem\Dörtİşlem\Dörtİşlem\obj\Debug\Dörtİşlem.d.resources
